@@ -9,7 +9,7 @@
           "sourceCam": [
             "http://145.239.5.177/206/index.m3u8"
           ],
-	        "numberCam": "95",
+	        "numberCam": "195",
           "subtitleCam": "All Channels",
           "thumbCam": "https://od.lk/s/NzNfODE2NTc1Nzdf/tracegospel.png",
           "titleCam": "TRACE GOSPEL"
@@ -19,7 +19,7 @@
           "sourceCam": [
             "https://stream.berosat.live:19360/gospel-channel/gospel-channel.m3u8"
           ],
-	        "numberCam": "95",
+	        "numberCam": "196",
           "subtitleCam": "All Channels",
           "thumbCam": "https://od.lk/s/NDZfNjE1ODU2MTVf/gospelChannel.jpg",
           "titleCam": "GOSPEL CHANNEL"
@@ -29,10 +29,20 @@
           "sourceCam": [
             "https://5a1178b42cc03.streamlock.net/CGTV2024/CGTV2024/playlist.m3u8"
           ],
-	        "numberCam": "95",
+	        "numberCam": "197",
           "subtitleCam": "All Channels",
           "thumbCam": "https://od.lk/s/NDZfODUxNTg4NjZf/caribbeanGospel.png",
           "titleCam": "CARIBBEAN GOSPEL"
+               },
+			    {
+     "descriptionCam": "My Gospel TV, est une chaine chrétienne international avec la musique gospel universel",
+          "sourceCam": [
+            "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
+          ],
+	        "numberCam": "198",
+          "subtitleCam": "All Channels",
+          "thumbCam": "https://od.lk/s/NDZfODg0NTI1NDZf/myGospel.png",
+          "titleCam": "MY GOSPEL TV"
                }
             ]
         }
