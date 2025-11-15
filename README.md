@@ -43,6 +43,16 @@
           "subtitleCam": "All Channels",
           "thumbCam": "https://od.lk/s/NDZfODg0NTI1NDZf/myGospel.png",
           "titleCam": "MY GOSPEL TV"
+               },
+			   {
+     "descriptionCam": "BET Gospel TV, est une chaine chrétienne international avec la musique gospel universel",
+          "sourceCam": [
+            "http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8"
+          ],
+	        "numberCam": "199",
+          "subtitleCam": "All Channels",
+          "thumbCam": "https://od.lk/s/NDZfNzgyNjYzNDNf/BTgospel.png",
+          "titleCam": "BET GOSPEL"
                }
             ]
         }
